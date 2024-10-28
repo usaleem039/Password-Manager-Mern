@@ -1,0 +1,16 @@
+
+@media (max-width: 450px) {
+  .passwords .flex {
+    gap: 0rem; /* Reduce the gap between Lord icons on small screens */
+   
+    
+    
+    
+  }
+
+  .passwords .lord-icon {
+    width: 20px; /* Further reduce icon size on very small screens */
+    height: 20px;
+    margin: 0;
+  }
+}
